@@ -1,0 +1,2 @@
+
+char grupo compartilhado ='a';
